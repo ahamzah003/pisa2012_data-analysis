@@ -1,5 +1,5 @@
-# (PISA2012 Data Exploration)
-## by (HAMZAT ABDULRAHMAN)
+# PISA2012 Data Exploration
+## by ABDULRAHMAN HAMZAT
 
 
 ## Dataset
